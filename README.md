@@ -35,18 +35,11 @@ These are numeric and measurable, suitable for statistical analysis and modeling
 
 4.How will you preprocess your data?
 
-a.Load the dataset 
-b.Describe the dataset
-c.Counts of rows and columns
-d.Check for missing values
-e.Duplicate value count
-f.Print the columns of the Dataframe to verify the exact column name 
-g.Statistics of the dataset
-h.Magnitude prediction
-i.Basic Scatter Plot of Locations
-j.Color by Magnitude
-k.Bar Chart: Earthquake Counts by Rounded Magnitude
-l.Pie Chart: Proportion of Earthquake Types
-m.Earthquake Scatter Plot with Magnitude
-n.Resampling Techniques
+a.Data Cleaning
+b.Feature Engineering (Predict Magnitude)
+c.Categorical Encoding (One-hot encode)
+d.Scaling and Normalization
+
+
+
 
