@@ -42,6 +42,9 @@ d.Scaling and Normalization
 
 Milestone 4
 
+
 ![](https://github.com/cyl2536/EarthQuake_DSE220Project/blob/main/Screenshot%202025-11-18%20174148.png)
+
+
 
 ![](https://github.com/cyl2536/EarthQuake_DSE220Project/blob/main/Screenshot%202025-11-18%20174124.png)
