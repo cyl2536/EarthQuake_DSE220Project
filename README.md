@@ -40,6 +40,7 @@ b.Feature Engineering (Predict Magnitude)
 c.Categorical Encoding (One-hot encode)
 d.Scaling and Normalization
 
+Milestone 4
 
 
 
