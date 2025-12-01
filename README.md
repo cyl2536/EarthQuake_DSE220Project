@@ -173,13 +173,13 @@ In high-risk regions models can inform building codes, zoning laws, and insuranc
 3. Scientific Insight
 Even though we can’t predict earthquakes precisely. Modeling helps us understand patterns, test hypotheses and identify hotspots about seismic behavior.
 
-Final Thought
+Final Thought:
 This dataset is more than just numbers or data— it’s a link between data science and human safety. A good predictive model won’t prevent earthquakes, but it can save lives, reduce economic loss, and guide smarter decisions in a world where seismic risk is a constant.
 
-Figures
+Figures:
 Your report should include relevant figures of your choosing to help with the narration of your story, including legends (similar to a scientific paper). For reference you search machine learning and your model in google scholar for reference examples.  (3 points). You can also add figures of plots obtained after EDA.
 
-Updates and New Work
+Updates and New Work:
 Data Preprocessing
 - Cleaned missing values, duplicates and irrelevant columns
 - Extracted temporal features (hour, month, year)
@@ -198,7 +198,7 @@ Data Preprocessing
 •	As magnitude increases, on the other hand the frequency drops sharply.
 •	Earthquakes above magnitude 6.0 are rare almost none, with very low counts.
 
-Why This Matters 
+ Why This Matters
 -	This helps prioritize monitoring resources like most activity is low magnitude, but high-magnitude          events require more attention.
 -	These are useful for insurance, risk modeling and disaster preparedness.
 -	An appropriate cutoff value from clustering, classification and regression models can guide                 threshold selection for choosing it.
@@ -369,7 +369,7 @@ Train vs Test Comparison
 •	The model is not overfitting (the performance generalizes well).
 •	The overall predictive power is moderate — it captures ~half of the variance (leaving room for              improvement).
 
-In summary 
+ In summary 
 The earthquake model makes predictions with about 0.7–0.95 units of the average error. This explains ~48% of the variability, and generalizes consistently across train and test sets. (This means it’s stable but not highly accurate yet)
 
   	Comments:
