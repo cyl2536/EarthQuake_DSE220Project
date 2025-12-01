@@ -202,6 +202,23 @@ Earthquake (97.2%): Natural tectonic earthquakes are the vast majority of events
 •	Focus on natural vs. industrial risks helps emergency planners.
 •	Mining, energy, and urban development are able to guide with policy decisions.
 
+![](https://github.com/cyl2536/EarthQuake_DSE220Project/blob/main/Screenshot%202025-11-18%20174124.png)
+
+Data Points
+Each blue dot represents the location of an earthquake. The dots are concentrated along tectonic plate boundaries. The Pacific Ring of Fire (Japan, Indonesia, west coast of the Americas). The Mid-Atlantic Ridge. The Himalayan region. The Mediterranean and Middle East.
+
+Why This Matters
+•	Earthquakes are not randomly distributed — they cluster along fault lines where tectonic plates interact within the earth’s outermost layer.
+•	This visualization guides disaster planners and geologists:
+•	Identify high-risk zones
+•	Understand seismic patterns
+•	Prioritize monitoring and infrastructure resilience
+
+
+![]()
+
+
+
 
 
 
