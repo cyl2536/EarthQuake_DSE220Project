@@ -369,7 +369,7 @@ Train vs Test Comparison
 •	The model is not overfitting (the performance generalizes well).
 •	The overall predictive power is moderate — it captures ~half of the variance (leaving room for              improvement).
 
- In summary 
+ In summary:
 The earthquake model makes predictions with about 0.7–0.95 units of the average error. This explains ~48% of the variability, and generalizes consistently across train and test sets. (This means it’s stable but not highly accurate yet)
 
   	Comments:
