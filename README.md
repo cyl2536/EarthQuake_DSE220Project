@@ -248,7 +248,55 @@ o	Geological research
 
 •	You can extend this by overlaying time, depth or event type to uncover deeper patterns.
 
-![]()
+![](https://github.com/cyl2536/EarthQuake_DSE220Project/blob/main/Screenshot%202025-11-18%20174237.png)
+
+Key Insight: Resampling
+•	The bars are almost nearly equal in height, which means the dataset has been resampled to ensure each magnitude class has the equivalent number of examples.
+•	This is crucial for machine learning tasks like classification and regression, where imbalanced data can bias the model toward the majority class.
+
+Why This Matters
+•	As in the earlier frequency chart, original earthquake data are heavily skewed toward low magnitudes.
+•	Resampling (e.g., undersampling common ones or oversampling rare classes) ensures:
+
+•	It shows fair training across all magnitude levels
+•	Improved model accuracy for rare but important classes like "Severe"
+•	Reduced bias toward frequent but less impactful events
+
+
+
+
+5.	Your final model should be included in every section of your write up. i.e. Methods, Results, Discussion
+Methods
+List the steps from starting 
+1.	Load the dataset
+2.	Describe the dataset
+3.	Shows number of rows and columns
+4.	Counts rows and columns
+5.	Check for missing values
+6.	Duplicate value count
+7.	Data frame with the name of columns
+8.	Statistics of the dataset
+9.	Magnitude prediction
+10.	Basic Scatter Plot of Locations
+11.	Color by Magnitude
+12.	Bar Chart: Earthquake Counts by Rounded Magnitude
+13.	Pie Chart: Proportion of Earthquakes Types
+14.	Earthquake Scatter Plot with Magnitude
+15.	Resampling Technique
+16.	Resampling Graph
+17.	Test MSE
+18.	Regression Table
+19.	Test and train
+
+
+Results 
+Train RMSE: 0.951, MAE: 0.719, R²: 0.479
+Test RMSE: 0.951, MAE: 0.719, R²: 0.480
+
+1. RMSE (Root Mean Squared Error)
+•	Definition: The square root of the average of the squared differences between actual and predicted values.
+•	Formula:
+
 
 
 
