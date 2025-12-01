@@ -307,7 +307,21 @@ Test RMSE: 0.951, MAE: 0.719, R²: 0.480
 •	Definition: The average of the absolute differences between predicted and actual values.
 •	Formula:
 
+![](https://github.com/cyl2536/EarthQuake_DSE220Project/blob/main/Screenshot%202025-11-20%20190421.png)
+
+•	Interpretation:
+•	Treats all errors equally (no squaring).
+•	More robust to outliers than RMSE.
+•	In your case: 0.719 means the average prediction is off by 0.719 units
+
+3. R² (R-squared or Coefficient of Determination)
+•	Definition: Measures the proportion of variance in the target variable that is explained by the model.
+•	Formula:
+
 ![]()
+
+
+
 
 
 
