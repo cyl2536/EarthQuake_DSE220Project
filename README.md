@@ -215,7 +215,26 @@ Why This Matters
 •	Prioritize monitoring and infrastructure resilience
 
 
-![]()
+![](https://github.com/cyl2536/EarthQuake_DSE220Project/blob/main/Screenshot%202025-11-18%20174137.png)
+
+Data Points
+Each point represents an individual earthquake event. The color of each point encodes its magnitude. Yellow: Lower magnitude earthquakes. Red: Higher magnitude earthquakes
+
+Magnitude distribution:
+•	Most earthquakes are moderate (yellow to orange).
+•	Fewer but more intense events (red) are visible in subduction zones and fault lines.
+
+
+
+ Why This Matters
+•	Helps determine regions prone to high-magnitude quakes and seismic hotspots. 
+•	Essential for risk assessment, disaster preparedness and urban planning.
+•	Can get extension to analyze depth, frequency over time, or even tsunami potential.
+
+
+
+
+
 
 
 
