@@ -192,6 +192,18 @@ Why This Matters
 -	An appropriate cutoff value from clustering, classification and regression models can guide threshold selection for choosing it.
 
 
-![](https://github.com/cyl2536/EarthQuake_DSE220Project/blob/main/Screenshot%202025-11-18%20174148.png)
+![](https://github.com/cyl2536/EarthQuake_DSE220Project/blob/main/Screenshot%202025-11-18%20174202.png)
+
+ Segments
+Earthquake (97.2%): Natural tectonic earthquakes are the vast majority of events. Quarry Blast (1.5%): These are man-made explosions from construction or mining. Explosion (0.4%): Includes deliberate detonations or industrial accidents. Induced or Triggered Event (0.4%): Fracking or reservoir filling are the earthquakes caused by human activity. Collapse (0.3%): Mine collapses or sinkholes are structural failures. Other Event (0.2%): Seismic disturbances are rare or unclassified.
+
+ Why This Matters
+•	Useful for filtering data when building models or conducting geological studies.
+•	Focus on natural vs. industrial risks helps emergency planners.
+•	Mining, energy, and urban development are able to guide with policy decisions.
+
+
+
+
 
 
