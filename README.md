@@ -231,6 +231,28 @@ Magnitude distribution:
 •	Essential for risk assessment, disaster preparedness and urban planning.
 •	Can get extension to analyze depth, frequency over time, or even tsunami potential.
 
+![](https://github.com/cyl2536/EarthQuake_DSE220Project/blob/main/Screenshot%202025-11-18%20174224.png)
+
+ Color Encoding
+Each point represents an individual earthquake event.The color of each point corresponds to its magnitude:
+o	Purple: Lower magnitude
+o	Yellow-Green: Higher magnitude
+The color bar on the side helps interpret the magnitude scale, which ranges approximately from -7.5 to 7.5.
+
+ Why This Matters
+•	This visualization helps identify regions at risk for seismic hotspots and large earthquakes. 
+•	It’s useful for:
+o	Disaster preparedness
+o	Urban planning
+o	Geological research
+
+•	You can extend this by overlaying time, depth or event type to uncover deeper patterns.
+
+![]()
+
+
+
+
 
 
 
