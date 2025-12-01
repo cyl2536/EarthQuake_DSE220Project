@@ -216,7 +216,7 @@ Earthquake (97.2%): Natural tectonic earthquakes are the vast majority of events
 
 ![](https://github.com/cyl2536/EarthQuake_DSE220Project/blob/main/Screenshot%202025-11-18%20174124.png)
 
-Data Points
+Data Points:
 Each blue dot represents the location of an earthquake. The dots are concentrated along tectonic plate boundaries. The Pacific Ring of Fire (Japan, Indonesia, west coast of the Americas). The Mid-Atlantic Ridge. The Himalayan region. The Mediterranean and Middle East.
 
 Why This Matters
@@ -229,7 +229,7 @@ Why This Matters
 
 ![](https://github.com/cyl2536/EarthQuake_DSE220Project/blob/main/Screenshot%202025-11-18%20174137.png)
 
-Data Points
+Data Points:
 Each point represents an individual earthquake event. The color of each point encodes its magnitude. Yellow: Lower magnitude earthquakes. Red: Higher magnitude earthquakes.
 
 Magnitude distribution:
