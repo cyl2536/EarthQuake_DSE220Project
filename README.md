@@ -341,7 +341,7 @@ Test RMSE: 0.951, MAE: 0.719, R²: 0.480
 
 
 
-Discussion
+Discussion:
 This is where you will discuss the why, and your interpretation and your thought process from beginning to end
 
 Why did I choose the model?
