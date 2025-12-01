@@ -279,6 +279,7 @@ Why This Matters
 
 5.	Your final model should be included in every section of your write up. i.e. Methods, Results,        Discussion
 Methods
+
 List the steps from starting 
 1.	Load the dataset
 2.	Describe the dataset
