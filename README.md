@@ -296,6 +296,20 @@ Test RMSE: 0.951, MAE: 0.719, R²: 0.480
 1. RMSE (Root Mean Squared Error)
 •	Definition: The square root of the average of the squared differences between actual and predicted values.
 •	Formula:
+![](https://github.com/cyl2536/EarthQuake_DSE220Project/blob/main/Screenshot%202025-11-20%20190433.png)
+
+•	Interpretation:
+•	Penalizes larger errors more than smaller ones.
+•	Lower RMSE means better model performance.
+•	In your case: 0.951 means the typical prediction error is about 0.951 units.
+
+ 3. MAE (Mean Absolute Error)
+•	Definition: The average of the absolute differences between predicted and actual values.
+•	Formula:
+
+![]()
+
+
 
 
 
